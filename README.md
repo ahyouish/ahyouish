@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ahyouish
-- 👀 Just a guy who is into Tech!
-- 🌱 I’m currently learning Electronics and Computer Engineering (4 year Btech course).
-- 📫 How to reach me : gmail - ayush.roshny@gmail.com
-- It is there for you somewhere... :)
+Hi, I'm Ayush G
 
-<!---
-ahyouish/ahyouish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Just a guy who is into tech, building things and figuring out how they work.
+
+I'm a developer exploring the intersection of **code, creativity, and technology**.
+
+I build **full-stack applications, interactive 3D experiences, and creative digital products.**
+
+### Tech I work with
+
+`Next.js` `React` `JavaScript` `TypeScript`  
+`Python` `Java` `PostgreSQL` `MySQL`  
+`Blender` `Three.js` `WebGL` `Figma`  
+`Git` `GitHub` `KiCad`
+
+### Find me here
+
+- Website: https://ayushg.dev
+- Email: ayush.roshny@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ayush-g-72497b331
+- GitHub: https://github.com/ahyouish
+
+"It is there for you, somewhere." - Ayush G
