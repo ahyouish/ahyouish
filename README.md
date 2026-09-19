@@ -17,7 +17,7 @@ I build **full-stack applications, interactive 3D experiences, and creative digi
 
 - Website: https://ayushg.dev
 - Email: ayush.roshny@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ayush-g-72497b331
+- LinkedIn: https://www.linkedin.com/in/ayushgdev/
 - GitHub: https://github.com/ahyouish
 
 "It is there for you, somewhere." - Ayush G
